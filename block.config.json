@@ -1,0 +1,8 @@
+{
+  "name": "nikhil_package_dev",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/nikhilvneoito/nikhil_package_dev",
+    "ssh": "git@github.com:nikhilvneoito/nikhil_package_dev.git"
+  }
+}
